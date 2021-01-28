@@ -23,4 +23,3 @@ class Cat
     end
 
   end  # code goes here
-end
